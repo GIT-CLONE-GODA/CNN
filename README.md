@@ -98,7 +98,7 @@ Quick demo interface with:
 * Model selection
 * Mask prediction
   Can be shared via public link or deployed on Hugging Face Spaces.
-  ![WhatsApp Image 2025-12-29 at 4.48.26 PM.jpeg…]()
+  ![Uploading WhatsApp Image 2025-12-29 at 4.48.26 PM.jpeg…]()
 
 
 ---
