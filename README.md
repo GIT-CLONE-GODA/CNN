@@ -29,8 +29,9 @@ It implements and compares two advanced segmentation architectures and provides 
 * Paired dermoscopic images and binary lesion masks
 * Total samples: **5210**
 
-  * Training: **4168**
-  * Validation: **1042**
+  * Training: **3647**
+  * Validation: **781**
+  * * Testing: **782**
 
 ---
 
