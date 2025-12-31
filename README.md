@@ -31,7 +31,7 @@ It implements and compares two advanced segmentation architectures and provides 
 
   * Training: **3647**
   * Validation: **781**
-  * * Testing: **782**
+  * Testing: **782**
 
 ---
 
